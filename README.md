@@ -23,3 +23,4 @@ It easily reduces the bookkeeping task and thus reduces the human effort and inc
 Azure Storage Container (Static Website), Azure Cosmos DB, Function App, HTML, CSS, JavaScript
 
 **Thank You!**
+![Website Working Overview](https://github.com/x10sic/Health-cure/assets/75584793/a5c1ba7a-85a3-4bdd-b4ab-04da3b79d3d9)
